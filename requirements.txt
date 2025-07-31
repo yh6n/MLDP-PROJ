@@ -1,6 +1,6 @@
-joblib==1.4.2
-geopandas==1.0.1
+joblib==1.5.1
+imbalanced-learn==0.13.0
 matplotlib==3.9.4
-pandas==2.2.3
-numpy==1.26.4
+numpy==2.3.2
 scikit-learn==1.6.1
+streamlit==1.47.1
